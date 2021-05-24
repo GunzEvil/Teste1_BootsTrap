@@ -1,0 +1,36 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.imagem1_glabs {
+    width: 220px;
+    height: 80px;
+}
+
+.site_1 {
+    width: 400px;
+    height: 400px;
+}
+
+.navbar {
+    background-color: #5FB404;
+}
+
+.quem-somos {
+    background-color: #8181F7;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #58FAFA;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
